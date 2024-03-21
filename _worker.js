@@ -22,12 +22,14 @@ let addressesapi = [
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
 	//'https://raw.githubusercontent.com/Onezyh/Worker-Vless-2-USB/main/addressesapi.txt',
 	'https://addressesapi.090227.xyz/CloudFlareYes',
+	'https://addressesapi.090227.xyz/ct',
+	'https://addressesapi.090227.xyz/cmcc',
 	'https://810828db.cf-workers-text2kv-6j5.pages.dev/result.txt?token=TEXT2KV'
 ];
 
 let DLS = 4;//速度下限
 let addressescsv = [
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv' //iptest测速结果文件。
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv' //iptest测速结果文件。 https://t.me/bestcfipas
         //'https://raw.githubusercontent.com/wowdd1/Worker-Vless-2-USB/main/addressescsv.csv'
 ];
 
