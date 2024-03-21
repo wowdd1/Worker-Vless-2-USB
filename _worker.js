@@ -13,8 +13,8 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
-        //'https://raw.githubusercontent.com/wowdd1/Worker-Vless-2-USB/main/addressesapi.txt'
+	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
+        'https://raw.githubusercontent.com/wowdd1/Worker-Vless-2-USB/main/addressesapi.txt'
 ];
 
 let DLS = 4;//速度下限
