@@ -16,7 +16,7 @@ let addressesapi = [
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt' //可参考内容格式 自行搭建。
         //'https://raw.githubusercontent.com/wowdd1/Worker-Vless-2-USB/main/addressesapi.txt'
 	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
-	'https://raw.githubusercontent.com/Onezyh/Worker-Vless-2-USB/main/addressesapi.txt',
+	//'https://raw.githubusercontent.com/Onezyh/Worker-Vless-2-USB/main/addressesapi.txt',
 	'https://addressesapi.090227.xyz/CloudFlareYes',
 	'https://810828db.cf-workers-text2kv-6j5.pages.dev/result.txt?token=TEXT2KV'
 ];
