@@ -13,6 +13,13 @@ let addresses = [
 	'cf.090227.xyz:2087#官方优选-CM提供',
 	'cfip.xocooooa.tk:8443#官方优选-OTC提供',
 	'185.221.160.203:443#电信优选IP',
+	'acjp2.cloudflarest.link#联通高速优选域名',
+	'acsg.cloudflarest.link#联通高速优选域名',
+	'acsg3.cloudflarest.link#联通高速优选域名',
+	'acjp2.cloudflarest.link#移动高速优选域名',
+	'acsg3.cloudflarest.link#移动高速优选域名',
+	'acsg3.cloudflarest.link#电信高速优选域名',
+	'acsg.cloudflarest.link#电信高速优选域名',
 ];
 
 // 设置优选地址api接口
