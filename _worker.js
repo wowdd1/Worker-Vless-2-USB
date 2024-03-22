@@ -87,7 +87,8 @@ let addressesapi = [
 	'https://addressesapi.090227.xyz/cmcc',
 	'https://ipdb.api.030101.xyz/?type=bestcf',
 	'https://810828db.cf-workers-text2kv-6j5.pages.dev/result.txt?token=TEXT2KV',
-	'https://810828db.cf-workers-text2kv-6j5.pages.dev/result_baipiao.txt?token=TEXT2KV'
+	'https://810828db.cf-workers-text2kv-6j5.pages.dev/result_baipiao.txt?token=TEXT2KV',
+	'https://cloudflare.vmshop.org/ipv4.php'
 ];
 
 let DLS = 10;//速度下限
