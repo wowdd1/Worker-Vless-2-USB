@@ -112,6 +112,7 @@ let proxyIPs = [
 	'proxyip.hk.fxxk.dedyn.i',
 	'proxyip.oracle.fxxk.dedyn.io',
 	'proxyip.digitalocean.fxxk.dedyn.io',
+	'workers.bestip.one',
 ];
 let CMproxyIPs = [
 	{ proxyIP: "proxyip.fxxk.dedyn.io", type: "HK" },
