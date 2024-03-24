@@ -167,7 +167,7 @@ let proxyIPs = [
 	'proxyip.fxxk.dedyn.io',
 	'proxyip.sg.fxxk.dedyn.io',
 	'proxyip.jp.fxxk.dedyn.io',
-	'proxyip.hk.fxxk.dedyn.i',
+	'proxyip.hk.fxxk.dedyn.io',
 	'proxyip.oracle.fxxk.dedyn.io',
 	'proxyip.digitalocean.fxxk.dedyn.io',
 	'workers.bestip.one',
