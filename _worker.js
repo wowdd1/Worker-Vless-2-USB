@@ -73,6 +73,7 @@ let addresses = [
 	'www.haijiao.com',
 	'www.705ee.com',
 	'www.108kav.com',
+	'www.iios.club',
 	//'cdn.jsbang.top#电信联通',
 	//'cdn.didi8.com#电信联通',
 	//'opop.200307.xyz#电信联通',
